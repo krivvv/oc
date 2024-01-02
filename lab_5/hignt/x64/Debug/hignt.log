@@ -1,0 +1,5 @@
+﻿  hignt.cpp
+C:\Users\ro\source\repos\server\hignt\hignt.cpp(20,22): warning C4312: приведение типов: преобразование из "int" в "HANDLE" большего размера
+C:\Users\ro\source\repos\server\hignt\hignt.cpp(20,57): warning C4312: приведение типов: преобразование из "int" в "HANDLE" большего размера
+C:\Users\ro\source\repos\server\hignt\hignt.cpp(49,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  hignt.vcxproj -> C:\Users\ro\source\repos\server\x64\Debug\hignt.exe

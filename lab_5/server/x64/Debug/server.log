@@ -1,0 +1,6 @@
+﻿  server.cpp
+C:\Users\ro\source\repos\server\server\server.cpp(63,39): warning C4311: приведение типов: усечение указателя из "HANDLE" в "int"
+C:\Users\ro\source\repos\server\server\server.cpp(63,39): warning C4302: приведение типов: усечение из "HANDLE" к "int"
+C:\Users\ro\source\repos\server\server\server.cpp(63,55): warning C4311: приведение типов: усечение указателя из "HANDLE" в "int"
+C:\Users\ro\source\repos\server\server\server.cpp(63,55): warning C4302: приведение типов: усечение из "HANDLE" к "int"
+  server.vcxproj -> C:\Users\ro\source\repos\server\x64\Debug\server.exe
