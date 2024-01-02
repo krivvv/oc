@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : Отказано в доступе по пути "c:\users\ro\source\repos\lab2oo\x64\debug\child.exe".
+  Child.cpp
+LINK : fatal error LNK1104: не удается открыть файл "C:\Users\ro\source\repos\lab2oo\x64\Debug\Child.exe"
